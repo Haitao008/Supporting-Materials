@@ -1,1 +1,1 @@
-# In-silicon design of ultra-robust strain sensors with machine intelligence for autonomous soft robot navigation
+# Computational design of ultra-robust strain sensors for soft robot perception and autonomy
